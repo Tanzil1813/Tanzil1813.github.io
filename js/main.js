@@ -13,6 +13,7 @@ $(window).on('scroll',function(){
 jQuery(function ($) {
     'use strict';
 //end sticky navbar
+
 //#main-slider
 $(function () {
     $('#main-slider.carousel').carousel({
